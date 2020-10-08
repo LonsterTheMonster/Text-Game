@@ -1,5 +1,3 @@
-echo off
-
-lua.exe "index.lua"
+lua.exe %cd%\index.lua
 
 pause
